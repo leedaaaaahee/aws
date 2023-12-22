@@ -1,0 +1,10 @@
+streamlit
+image
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+konlpy
+streamlit_chat
+langchain
