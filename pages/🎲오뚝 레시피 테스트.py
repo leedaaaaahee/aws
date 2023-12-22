@@ -99,7 +99,7 @@ if st.button("결과 보기"):
     else: q3 = q3 - 1
 
     ## 결과 가져오기
-    data = pd.read_csv('./data/test.csv', encoding='ANSI')
+    data = pd.read_csv('./data/test.csv', encoding='utf-8')
 
     num = 0
 
